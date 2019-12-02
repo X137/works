@@ -1,0 +1,218 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+8
+
+
+In Avengers: Endgame, the following is part of the dialogue between Bruce Banner (BB) in astral form [who traveled back in time] and the Ancient One (AO):
+
+AO: I can't risk this reality on a promise. It's the duty of the Sorcerer Supreme to protect the time stone.
+BB: Then why the hell did Strange give it away?
+AO: What did you say?
+BB: Strange. He gave it away. He gave it to Thanos.
+AO: Willingly?
+BB: Yes.
+AO: [long pause] Why?
+BB: I have no idea. Maybe he made a mistake.
+AO: [long pause] Or I did.
+
+I'm unclear on what mistake she is referring to. I suppose it might just be her mistake might simply be not immediately giving Bruce the time stone, but that doesn't seem profound enough for this dialogue.
+
+Also it's odd that she knows Dr. Strange's future, but doesn't know she gives Bruce Banner the time stone. Maybe this is relevant to her mistake (e.g., incorrectly perceiving the future).
+
+Question: What is the Ancient One's mistake?
+
+plot-explanation marvel-cinematic-universe avengers-endgame
+shareimprove this question
+asked 4 hours ago
+
+Rebecca J. Stones
+698821
+add a comment
+3 Answers
+active oldest votes
+
+7
+
+Her mistake was refusing to give Banner the Time stone.
+
+Strange had to give it willingly to Thanos so she would be convinced that things really were that serious. Presumably in other futures he saw Thanos eventually gets it anyway, and then the others are unable to complete the time heist.
+
+shareimprove this answer
+answered 4 hours ago
+
+OrangeDog
+2,0151319
+add a comment
+
+3
+
+Question: What is the Ancient One's mistake?
+
+The mistake the Ancient One was referring to was her initial intent to not give the Time Stone to Banner.
+Before explaining, it's important to mention/keep in mind that the Ancient One has the ability to see the future (but only so far).
+
+Going into the events of The Avengers (as shown in Avengers: Endgame), the Ancient One most likely foresaw Banner asking her for the Time Stone. However, as the OP quoted, it's the duty of the Sorcerer Supreme to protect the Time Stone at all costs. That being said, her initial intent was to not give the stone to Banner.
+
+The reason why the Ancient One didn't already know about Strange's actions (i.e., Strange willingly giving the stone to Thanos) during the time of her and Banner's conversation is because she died in Dr. Strange; and, just as she told Strange right before she died, she wasn't able to see past that moment in time (nor was she able to see Strange's actual future... only its possibilities).
+
+ANCIENT ONE: I've spent so many years peering through time, looking at this exact moment. But I can't see past it. I've prevented countless terrible futures. And after each one, there's always another. And they all lead here, but never further.
+
+...
+
+I never saw your future. Only its possibilities.
+
+So, her coming to learn about Strange actions in Avengers: Infinity War was new information to her, and, with her knowing that Strange is the best Master of the Mystic Arts, she then says that perhaps she made a mistake [in judgement] when initially not wanting to give the Time Stone to Banner (and then immediately gives it to him).
+
+shareimprove this answer
+edited 6 mins ago
+answered 1 hour ago
+
+Charles
+2,15275287
+add a comment
+
+-2
+
+The Ancient One is referring to her taking Stephen Strange as a student. She states that it is the Sorcerer Supreme's duty to protect the Time stone. Since Strange apparently willingly gave up the stone to Thanos she is worried that she chose wrongly in her successor as Sorcerer Supreme.
+
+The dialogue of the scene continues thusly and further explains her fear:
+
+Ancient One: Strange was meant to be the best of us.
+
+Bruce: So he must've done it for a reason.
+
+Ancient One: I fear you might be right.
+
+The Ancient One believed that taking Stephen Strange as her student was the right decision. She believed he would become the best of them. Bruce Banner has just told her that Strange apparently shirked his most important duty. She is now questioning whether she is making a mistake in choosing Strange.
+
+shareimprove this answer
+answered 4 hours ago
+
+Legion600
+4,4792035
+5
+Then why does she immediately hand over the stone at this point? – Josh 3 hours ago
+1
+Have to agree with Josh. The fact that Strange gave it over swayed her to giving the stone to Bruce. She was saying that since Strange is the best of them, and given the fact that he gave it to Thanos, indicates that there's something she's not aware of / able to see. So, she trusts Strange's actions and hands the stone to Bruce. – Charles 3 hours ago
+@Charles You just answered Josh's question. She is afraid to give it up because she knows Strange will need the stone in the future to save her reality. Discovering that Strange willingly gave it up to Thanos concerns her but she decides to trust to his judgement and to the judgement of his "coworkers." – Legion600 3 hours ago
+3
+@Legion600 It's known by the Ancient One that Strange is destined to be the best Master of the Mystic Arts. At no point was she questioning her decision to take Strange on as a pupil. Instead, she was saying that her own initial judgement of keeping the stone was wrong, given that Strange later willingly relinquishes the stone to Thanos. – Charles 2 hours ago
+@Charles Her emotional reaction on finding that Strange gave away the stone and her statement that Strange was "meant to be the best of us" show she is questioning her expectations of Strange. She isn't questioning what she didn't do 30 seconds ago. The Ancient One said in Doctor Strange that she never saw his future, only it's possibilities. She's worried she may be placing her faith in the wrong man. – Legion600 1 hour ago
+add a comment
+You must log in to answer this question.
+Not the answer you're looking for? Browse other questions tagged plot-explanation marvel-cinematic-universe avengers-endgame .
+asked
+
+today
+
+viewed
+
+269 times
+
+active
+
+today
+
+Featured on Meta
+Unicorn Meta Zoo #2: What is the role of moderators?
+Favourite questions and answers from the 1st quarter of 2019
+Related
+-2
+Superbad Mistake?
+14
+What makes Ultron the person he is?
+30
+When is Doctor Strange actually set?
+9
+Why wasn't the Ancient One affected?
+1
+What was the possible mistake by Lucifer?
+9
+Why didn't Dr. Strange tell Quill about Gamora in advance?
+8
+How did Nick Fury know that it's time to call Captain Marvel?
+13
+Given what happens in Endgame, why doesn't Dormammu come back to attack the universe?
+-5
+Avengers endgame past stones back to the present?
+5
+Did this only become possible in “Avengers: Endgame” because of a certain destroyed item?
+Hot Network Questions
+How is it believable that Euron could so easily pull off this ambush?
+why it is 2>&1 and not 2>>&1 to append to a log file
+Why is there a cap on 401k contributions?
+Was there a dinosaur-counter in the original Jurassic Park movie?
+Justification of physical currency in an interstellar civilization?
+If an attacker targets a creature with the Sanctuary spell cast on them, but fails the Wisdom save, can they choose not to attack anyone else?
+Scaling rounded rectangles in Illustrator
+Concatenate all values of the same XML element using XPath/XQuery
+Convert a huge txt-file into a dataset
+And now you see it
+Can a player choose to add detail and flavor to their character's spells and abilities?
+How could a humanoid creature completely form within the span of 24 hours?
+cd ` command meaning and how to exit it?
+Employee is self-centered and affects the team negatively
+Can anyone identify this unknown 1988 PC card from The Palantir Corporation?
+What’s the interaction between darkvision and the Eagle Aspect of the beast, if you have Darkvision past 100 feet?
+Why did Gendry call himself Gendry Rivers?
+I want to write a blog post building upon someone else's paper, how can I properly cite/credit them?
+Why were the rules for Proliferate changed?
+Why did Dr. Strange keep looking into the future after the snap?
+My C Drive is full without reason
+Where do 5 or more U.S. counties meet in a single point?
+The unknown and unexplained in science fiction
+Is there a reason why Turkey took the Balkan territories of the Ottoman Empire, instead of Greece or another of the Balkan states?
+ question feed
+MOVIES & TV
+Tour
+Help
+Chat
+Contact
+Feedback
+Mobile
+Disable Responsiveness
+COMPANY
+Stack Overflow
+Stack Overflow Business
+Developer Jobs
+About
+Press
+Legal
+Privacy Policy
+STACK EXCHANGE
+NETWORK
+Technology
+Life / Arts
+Culture / Recreation
+Science
+Other
+Blog
+Facebook
+Twitter
+LinkedIn
+site design / logo © 2019 Stack Exchange Inc; user contributions licensed under cc by-sa 3.0 with attribution required. rev 2019.5.6.33597
